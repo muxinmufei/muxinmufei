@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<a href="http://www.cac.gov.cn/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);疯狂就像地心引力，所需要的只是轻轻一推!&center=true&size=21">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);疯狂就像地心引力，所需要的只是轻轻一推!&center=true&size=20">
 	</a>
 </h1>
 
